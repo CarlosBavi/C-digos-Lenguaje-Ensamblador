@@ -2,7 +2,7 @@
 .stack 
 
 .data 
-    msg db 'Hello World Im Carlos Bautista $'
+    msg db 'Hola Mundo Soy Carlos Bautista $'
 
 ; segemento de codigo    
 .code
